@@ -60,7 +60,6 @@
 <img src="https://www.underworldcode.org/content/images/size/w600/2020/08/Moby-logo-1.png" alt="docker" width="50" height="40"/>
 </td>
 </tr>
-<tr>
 </tbody>
 </table>
 

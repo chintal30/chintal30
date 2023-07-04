@@ -54,7 +54,7 @@ API Testing for CRUD using: Java, XML, TDD, TestNG, Selenium, rest-assured, json
 </tr>
 </thead>
 
-<tbody>
+<tbody style="font-weight:normal">
 
 <tr>
 <td>Operating Systems</td>

@@ -7,8 +7,8 @@
 <table>
 <thead>
 <tr>
-<th><b>Name</b></th>
-<th>Tech Stack Used</th>
+<th><strong>Name</strong></th>
+<th><strong>Tech Stack Used</strong></th>
 </tr>
 </thead>
 
@@ -17,7 +17,7 @@
 <tr>
 <td><a href="https://github.com/chintal30/campground" target="blank">Campgrounds</td>
 <td>
-A full stack Web app using: JavaScript, HTML, CSS, MongoDB, Visual Studio, NodeJS, Express, EJS, Mongoose, Cloudinary, Mapbox, Render, bcrypt, dotenv, joi, helmet, multer, passport, sanitize-html, Rest API
+A full stack Web app using: JavaScript, HTML, CSS, MongoDB, Visual Studio, NodeJS, Express, EJS, Mongoose, Cloudinary, Mapbox, Render, bcrypt, dotenv, joi, helmet, multer, passport, sanitize-html, Rest API<a href="https://canadacamps.onrender.com/" target="blank">Deployed Website Link</a>
 </td>
 </tr>
 

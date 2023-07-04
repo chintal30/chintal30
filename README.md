@@ -7,8 +7,8 @@
 <table>
 <thead>
 <tr>
-<th><b>Property</b></th>
-<th><b>Data</b></th>
+<th><strong>Property</strong></th>
+<th><strong>Data</strong></th>
 </tr>
 </thead>
 
@@ -21,59 +21,59 @@
 </tr>
 
 <tr>
-<td><strong>Programming Languages</strong></td>
+<td>Programming Languages</td>
 <td>C, Java, JavaScript, Python</td>
 </tr>
 
 <tr>
-<td><strong>Databases</strong></td>
+<td>Databases</td>
 <td>SQL, NoSQL-MongoDB, MS SQL Server</td>
 </tr>
 
 <tr>
-<td><strong>Markup Languages</strong></td>
+<td>Markup Languages</td>
 <td>HTML5, CSS3, XML, Bootstrap 5, Bulma</td>
 </tr>
 
 <tr>
-<td><strong>Data Interchage Formats</strong></td>
+<td>Data Interchage Formats</td>
 <td>JSON, XML, CSV, AJAX</td>
 </tr>
 
 <tr>
-<td><strong>CLI Experience</strong></td>
+<td>CLI Experience</td>
 <td>Windows: cmd, npm, bash;  Mac & Linux: Terminal, Shell</td>
 </tr>
 
 <tr>
-<td><strong>Domain Knownledge</strong></td>
+<td>Domain Knownledge</td>
 <td> 
 Web Development, Computer Scince, Robotics, Mechanical Engineering
 </td>
 </tr>
 <tr>
-<td><strong>Version Control</strong></td>
+<td>Version Control</td>
 <td>
 GitHub, Git repository, Bitbucket, Jenkins (CI/CD)
 </td>
 </tr>
 
 <tr>
-<td><strong>Project Management</strong></td>
+<td>Project Management</td>
 <td>
 Agile, Waterfall, Scrum and Gantt Charts, JIRA with Zephyr plugin
 </td>
 </tr>
 
 <tr>
-<td><strong>Testing Frameworks</strong></td>
+<td>Testing Frameworks</td>
 <td>
 Behavior driven, Data driven, Junit, TestNG, Cucumber/Gherkins, Robot Framework
 </td>
 </tr>
 
 <tr>
-<td><strong>Tools and Libraries</strong></td>
+<td>Tools and Libraries</td>
 <td>
 MSOffice, Gantt project, Bugzilla, Visual Studio, HP-ALM, React, NodeJS, 
 Express, EJS, Mongoose, Cloudinary, Mapbox, Render, bcrypt, dotenv, joi, helmet, 
@@ -83,24 +83,25 @@ multer, passport, sanitize-html, Rest API
 </tbody>
 </table>
 <h3>Main Project/Repository Details on GitHub:</h3>
+
 <table>
 <thead>
 <tr>
 <th><b>Name</b></th>
-<th><b>Tech Stack Used</b></th>
+<th>Tech Stack Used</th>
 </tr>
 </thead>
 <tbody>
 
 <tr>
-<td><strong><a href="https://github.com/chintal30/campground" target="blank">campground</strong></td>
+<td<a href="https://github.com/chintal30/campground" target="blank">campground</td>
 <td>
 JavaScript, HTML, CSS, MongoDB, Visual Studio, NodeJS, Express, EJS, Mongoose, Cloudinary, Mapbox, Render, bcrypt, dotenv, joi, helmet, multer, passport, sanitize-html, Rest API
 </td>
 </tr>
 
 <tr>
-<td><strong><a href="https://github.com/chintal30/cucumber_chintal_3" target="blank">cucumber</strong></td>
+<td<a href="https://github.com/chintal30/cucumber_chintal_3" target="blank">cucumber</td>
 <td>
 Visual Studio, HP-ALM, NodeJS, Express, EJS, Mongoose, Cloudinary, Mapbox, Render, bcrypt, dotenv, joi, helmet, multer, passport, sanitize-html, Rest API
 </td>

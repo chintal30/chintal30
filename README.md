@@ -77,7 +77,7 @@ Behavior driven, Data driven, Junit, TestNG, Cucumber/Gherkins, Robot Framework
 <td>
 MSOffice, Gantt project, Bugzilla, Visual Studio, HP-ALM, React, NodeJS, 
 Express, EJS, Mongoose, Cloudinary, Mapbox, Render, bcrypt, dotenv, joi, helmet, 
-multer, passport, sanitize-html, Rest API
+multer, passport, sanitize-html, Rest API, Selenium, log4j, Extent Reports
 </td>
 </tr>
 </tbody>
@@ -91,19 +91,27 @@ multer, passport, sanitize-html, Rest API
 <th>Tech Stack Used</th>
 </tr>
 </thead>
-<tbody>
 
+
+<tbody>
 <tr>
-<td<a href="https://github.com/chintal30/campground" target="blank">campground</td>
+<td><a href="https://github.com/chintal30/campground" target="blank">campground</td>
 <td>
 JavaScript, HTML, CSS, MongoDB, Visual Studio, NodeJS, Express, EJS, Mongoose, Cloudinary, Mapbox, Render, bcrypt, dotenv, joi, helmet, multer, passport, sanitize-html, Rest API
 </td>
 </tr>
 
 <tr>
-<td<a href="https://github.com/chintal30/cucumber_chintal_3" target="blank">cucumber</td>
+<td><a href="https://github.com/chintal30/cucumber_chintal_3" target="blank">cucumber</td>
 <td>
-Visual Studio, HP-ALM, NodeJS, Express, EJS, Mongoose, Cloudinary, Mapbox, Render, bcrypt, dotenv, joi, helmet, multer, passport, sanitize-html, Rest API
+Java, XML, BDD, Cucumber/Gherkins, TestNG
+</td>
+</tr>
+
+<tr>
+<td><a href="https://github.com/chintal30/cucumber_chintal_3" target="blank">cucumber</td>
+<td>
+Java, XML, BDD, Cucumber/Gherkins, TestNG, log4j, Selenium, poi-ooxml, ashot, extent reports, WebDriverManager, lombok, maven with sunfire plugin
 </td>
 </tr>
 

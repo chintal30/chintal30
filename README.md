@@ -1,6 +1,6 @@
 
 <h1>Hello 👋, Welcome to my Profile.</h1>
-<h3 align="left">I'm Chintal Patel (You can call me Chris), QA Automation engineer</h3>
+<h3 align="left">I'm Chintal Patel (You can call me Chris), QA Engineer</h3>
 ⚡ Here you will find a bunch of sample projects and tools that I have used so far in my Software Development and Testing journey 
 <h3>My Tech Arsenal: <h3>
 
@@ -15,7 +15,7 @@
 <tbody>
 
 <tr>
-<td><strong>Operating Systems</strong></td>
+<td>Operating Systems</td>
 <td>Windows, Mac OS/ OS X, Linux
 </td>
 </tr>

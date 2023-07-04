@@ -2,6 +2,48 @@
 <h1>Hello 👋, Welcome to my Profile.</h1>
 <h3 align="left">I'm Chintal Patel (You can call me Chris), QA Engineer</h3>
 ⚡ Here you will find a bunch of sample projects and tools that I have used so far in my Software Development and Testing journey 
+<h3>Main Project/Repository Details on GitHub:</h3>
+
+<table>
+<thead>
+<tr>
+<th><b>Name</b></th>
+<th>Tech Stack Used</th>
+</tr>
+</thead>
+
+
+<tbody>
+<tr>
+<td><a href="https://github.com/chintal30/campground" target="blank">campground</td>
+<td>
+A full stack Web app using: JavaScript, HTML, CSS, MongoDB, Visual Studio, NodeJS, Express, EJS, Mongoose, Cloudinary, Mapbox, Render, bcrypt, dotenv, joi, helmet, multer, passport, sanitize-html, Rest API
+</td>
+</tr>
+
+<tr>
+<td><a href="https://github.com/chintal30/cucumber_chintal_3" target="blank">cucumber Testing</td>
+<td>
+Cucumber Framework Project using: Java, XML, BDD, Cucumber/Gherkins, TestNG, log4j, Selenium, poi-ooxml, ashot, extent reports, WebDriverManager, lombok, maven with sunfire plugin
+</td>
+</tr>
+
+<tr>
+<td><a href="https://github.com/chintal30/envisionactitime_Chintal2" target="blank">testng Testing</td>
+<td>
+TestNg Framework Project using: Java, XML, TDD, TestNG, log4j, Selenium, poi-ooxml, ashot, extent reports, WebDriverManager, lombok, maven with sunfire plugin
+</td>
+</tr>
+
+<tr>
+<td><a href="https://github.com/chintal30/ApiAutomationAugBatch" target="blank">Api Testing</td>
+<td>
+API Testing for CRUD using: Java, XML, TDD, TestNG, Selenium, rest-assured, json-schema-validator, maven, json-simple
+</td>
+</tr>
+
+</tbody>
+</table>
 <h3>My Tech Arsenal: <h3>
 
 <table>
@@ -82,48 +124,7 @@ multer, passport, sanitize-html, Rest API, Selenium, log4j, Extent Reports
 </tr>
 </tbody>
 </table>
-<h3>Main Project/Repository Details on GitHub:</h3>
 
-<table>
-<thead>
-<tr>
-<th><b>Name</b></th>
-<th>Tech Stack Used</th>
-</tr>
-</thead>
-
-
-<tbody>
-<tr>
-<td><a href="https://github.com/chintal30/campground" target="blank">campground</td>
-<td>
-A full stack Web app using: JavaScript, HTML, CSS, MongoDB, Visual Studio, NodeJS, Express, EJS, Mongoose, Cloudinary, Mapbox, Render, bcrypt, dotenv, joi, helmet, multer, passport, sanitize-html, Rest API
-</td>
-</tr>
-
-<tr>
-<td><a href="https://github.com/chintal30/cucumber_chintal_3" target="blank">cucumber Automation Testing</td>
-<td>
-Cucumber Framework Project using: Java, XML, BDD, Cucumber/Gherkins, TestNG, log4j, Selenium, poi-ooxml, ashot, extent reports, WebDriverManager, lombok, maven with sunfire plugin
-</td>
-</tr>
-
-<tr>
-<td><a href="https://github.com/chintal30/envisionactitime_Chintal2" target="blank">testng Automation Testing</td>
-<td>
-TestNg Framework Project using: Java, XML, TDD, TestNG, log4j, Selenium, poi-ooxml, ashot, extent reports, WebDriverManager, lombok, maven with sunfire plugin
-</td>
-</tr>
-
-<tr>
-<td><a href="https://github.com/chintal30/ApiAutomationAugBatch" target="blank">Api Automation Testing</td>
-<td>
-API Testing for CRUD using: Java, XML, TDD, TestNG, Selenium, rest-assured, json-schema-validator, maven, json-simple
-</td>
-</tr>
-
-</tbody>
-</table>
 
 <h3>Where you can find me: </h3>
 <p align="left">

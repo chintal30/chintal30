@@ -115,7 +115,13 @@ Behavior driven, Data driven, Junit, TestNG, Cucumber/Gherkins, Robot Framework
 </tr>
 
 <tr>
-<td>Tools and Libraries</td>
+<td>Automation Testing Tools</td>
+<td>
+Selenium WebDriver, Selenium Grid, Selenium IDE, REST API, Postman, Soap UI, Apache JMeter, LoadRunner, Maven with sunfire plugin</td>
+</tr>
+
+<tr>
+<td>WebDev Tools and Libraries</td>
 <td>
 MSOffice, Gantt project, Bugzilla, Visual Studio, HP-ALM, React, NodeJS, 
 Express, EJS, Mongoose, Cloudinary, Mapbox, Render, bcrypt, dotenv, joi, helmet, 

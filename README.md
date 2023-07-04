@@ -1,6 +1,6 @@
 
 <h1>Hello 👋, Welcome to my Profile.</h1>
-<h3 align="left">I'm Chintal Patel (You can call me Chris), QA Engineer and Web Developer</h3>
+<h3 align="left">I'm Chintal Patel, QA Engineer and Web Developer</h3>
 ⚡ Here you will find a bunch of sample projects and tools that I have used so far in my Software Development and Testing journey 
 <h3>Main Projects/Repositories on GitHub:</h3>
 

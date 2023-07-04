@@ -1,4 +1,3 @@
-
 <h1>Hello 👋, Welcome to my Profile.</h1>
 <h3 align="left">I'm Chintal Patel (You can call me Chris), Senior QA Automation engineer</h3>
 ⚡ Here you will find a bunch of sample projects and tools that I have used so far in my Software Development and Testing journey 

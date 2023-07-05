@@ -131,8 +131,7 @@ multer, passport, sanitize-html, Rest API, Selenium, log4j, Extent Reports
 </tbody>
 </table>
 
-
 <h3>Where you can find me: </h3>
 <p align="left">
-<a href="http://www.linkedin.com/in/chintalpatel30" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="http://www.linkedin.com/in/chintalpatel30" height="30" width="30" /></a>
+<a href="http://www.linkedin.com/in/chintalpatelqa" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="http://www.linkedin.com/in/chintalpatel30" height="30" width="30" /></a>
 </p> 

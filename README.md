@@ -90,7 +90,7 @@ API Testing for CRUD using: Java, XML, TDD, TestNG, Selenium, rest-assured, json
 <tr>
 <td>Domain Knownledge</td>
 <td> 
-Web Development, Computer Scince, Robotics, Mechanical Engineering
+Web Development, Computer Scince
 </td>
 </tr>
 <tr>

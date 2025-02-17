@@ -15,13 +15,6 @@
 
 <tbody>
 <tr>
-<td><a href="https://github.com/chintal30/campground" target="blank">Campgrounds</td>
-<td>
-A full stack Web app using: JavaScript, HTML, CSS, MongoDB, Visual Studio, NodeJS, Express, EJS, Mongoose, Cloudinary, Mapbox, Render, bcrypt, dotenv, joi, helmet, multer, passport, sanitize-html, Rest API. <a href="https://canadacamps.onrender.com/" target="_blank">Deployed Website Link: https://canadacamps.onrender.com/</a> (It is hosted on Free Tier, so please refresh the link after 1 min if it is not responding)
-</td>
-</tr>
-
-<tr>
 <td><a href="https://github.com/chintal30/cucumber_chintal_3" target="blank">Cucumber Framework Testing</td>
 <td>
 Cucumber Framework Project using: Java, XML, BDD, Cucumber/Gherkins, TestNG, log4j, Selenium, poi-ooxml, ashot, extent reports, WebDriverManager, lombok, maven with sunfire plugin
@@ -39,6 +32,13 @@ TestNg Framework Project using: Java, XML, TDD, TestNG, log4j, Selenium, poi-oox
 <td><a href="https://github.com/chintal30/ApiAutomationAugBatch" target="blank">Api CRUD Testing</td>
 <td>
 API Testing for CRUD using: Java, XML, TDD, TestNG, Selenium, rest-assured, json-schema-validator, maven, json-simple
+</td>
+</tr>
+
+<tr>
+<td><a href="https://github.com/chintal30/campground" target="blank">Campgrounds</td>
+<td>
+A full stack Web app using: JavaScript, HTML, CSS, MongoDB, Visual Studio, NodeJS, Express, EJS, Mongoose, Cloudinary, Mapbox, Render, bcrypt, dotenv, joi, helmet, multer, passport, sanitize-html, Rest API. <a href="https://canadacamps.onrender.com/" target="_blank">Deployed Website Link: https://canadacamps.onrender.com/</a> (It is hosted on Free Tier, so please refresh the link after 1 min if it is not responding)
 </td>
 </tr>
 

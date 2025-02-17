@@ -15,14 +15,14 @@
 
 <tbody>
 <tr>
-<td><a href="https://github.com/chintal30/cucumber_chintal_3" target="blank">Cucumber Framework Testing</td>
+<td><a href="https://github.com/chintal30/cucumber_chintal_3" target="blank">Cucumber Framework</td>
 <td>
 Cucumber Framework Project using: Java, XML, BDD, Cucumber/Gherkins, TestNG, log4j, Selenium, poi-ooxml, ashot, extent reports, WebDriverManager, lombok, maven with sunfire plugin
 </td>
 </tr>
 
 <tr>
-<td><a href="https://github.com/chintal30/envisionactitime_Chintal2" target="blank">Testng Framework Testing</td>
+<td><a href="https://github.com/chintal30/envisionactitime_Chintal2" target="blank">Testng Framework</td>
 <td>
 TestNg Framework Project using: Java, XML, TDD, TestNG, log4j, Selenium, poi-ooxml, ashot, extent reports, WebDriverManager, lombok, maven with sunfire plugin
 </td>
